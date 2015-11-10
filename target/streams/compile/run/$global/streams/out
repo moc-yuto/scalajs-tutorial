@@ -1,0 +1,3 @@
+[info] Running webapp.TutorialApp
+[debug] with JSEnv of type class org.scalajs.jsenv.rhino.RhinoJSEnv
+[debug] with classpath of type class org.scalajs.core.tools.classpath.LinkingUnitClasspath

@@ -1,0 +1,4 @@
+[debug] Linker: Read info: 182393 us
+[debug] Linker: Compute reachability: 174986 us
+[debug] Linker: Assemble LinkedClasses: 320268 us
+[debug] Linker: cache stats: reused: 0 -- invalidated: 3300 -- trees read: 250
