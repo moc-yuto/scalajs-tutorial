@@ -7,7 +7,6 @@ import scala.scalajs.js.annotation.JSExport
 
 object TutorialApp extends JSApp {
   def main(): Unit = {
-    println("Hello world!")
     appendPar(document.body, "Hello World")
   }
   def appendPar(targetNode: dom.Node, text: String): Unit = {
